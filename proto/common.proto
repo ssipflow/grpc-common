@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package test;
+package common;
 
 option java_package = "com.nelson.proto.messages";
 option java_outer_classname = "GrpcTraining";
